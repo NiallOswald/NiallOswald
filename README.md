@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm a fourth year Mathematics MSci student at Imperial College London.
+I'm a first year PhD Student at the Mathematics for our Future Climate CDT based at Imperial College London.
 
-I mainly work with Python, but I have some limited experience in a few other languages.
-Most of the projects I work on are numerical in some way, typically being finite difference solvers for fluids problems, like the summer research project I undertook at Imperial College, solving problems involving surfactant immobilisation of Superhydrophobic surfaces using spectral methods.
+My PhD is on the Analysis and simulations of novel carbon capture processes, with the objective to formulate models with the aim of utilising mathematical analysis and numerics to simplify and solve these equations to efficiently generate accurate solutions for use in general models of the impact of this device on global CO2 capture.
 
-Moving into my final year, I am starting work on my Masters project, investigating the behaviour of photosurfactant, under the supervision of Dr Mayer and Prof Papageorgiou of Imperial College London.
+My previous work focuses on interfacial flows, modelling the chromocapillary effect for spatially dependent light distributions.
